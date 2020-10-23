@@ -11,7 +11,7 @@
 <body>
 <?php include"Nav1.php" ?>
 <div class="container"style="margin-top:50px">
-<h2 class="text-center"style="font-family:'Monotype Corsiva';color:#0099FF;font-weight:bold">About Us</h2>
+<h2 class="text-center"style="font-family:'Monotype Corsiva';color:#0099FF;font-weight:bold">About</h2>
 <br>
 <div class=row>
 <div class=col-sm-4>

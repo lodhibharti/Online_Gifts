@@ -58,7 +58,7 @@ include"Nav1.php";
 <br>
 <!--carousel end--> 
 <div class="container">
-<h1 class="text-center"style='font-family:monotype corsiva;color:#0099FF';><b>Our Categories</b></h1>
+<h1 class="text-center"style='font-family:monotype corsiva;color:#0099FF';><b>Our project Categories</b></h1>
 <br>
 <br>
 <?php
